@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.assignment.tradestorage.TradestorageApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 41.64 s - in com.assignment.tradestorage.TradestorageApplicationTests

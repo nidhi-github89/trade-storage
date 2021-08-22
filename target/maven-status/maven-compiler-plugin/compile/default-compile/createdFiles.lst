@@ -1,0 +1,8 @@
+com\assignment\tradestorage\exception\InvalidTradeException.class
+com\assignment\tradestorage\dao\TradeStorageDaoImpl.class
+com\assignment\tradestorage\service\TradeStorageService.class
+com\assignment\tradestorage\model\Trade.class
+com\assignment\tradestorage\TradeStorageApplication.class
+com\assignment\tradestorage\controller\TradeStorageController.class
+com\assignment\tradestorage\dao\TradeRepository.class
+com\assignment\tradestorage\dao\TradeStorageDao.class
